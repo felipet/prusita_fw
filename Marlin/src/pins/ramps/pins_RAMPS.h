@@ -160,8 +160,9 @@
 //
 // Temperature Sensors
 //
+// Extruder 0 - Pt100
 #ifndef TEMP_0_PIN
-  #define TEMP_0_PIN                          13  // Analog Input
+  #define TEMP_0_PIN                          3  // Analog Input
 #endif
 #ifndef TEMP_1_PIN
   #define TEMP_1_PIN                          15  // Analog Input
